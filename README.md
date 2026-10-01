@@ -4,7 +4,7 @@
 
 # TacticToe
 
-A two-player tic-tac-toe game for the terminal, written in C++. My first C++ project!
+A two-player tic-tac-toe game for the terminal, written in C++. My first c++ project
 
 </div>
 
