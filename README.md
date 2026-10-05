@@ -2,7 +2,7 @@
 
 <img src="cd.svg" width="240" alt="CD">
 
-# TacticToe
+# TicTacToe
 
 A two-player tic-tac-toe game for the terminal, written in C++. My first c++ project
 
@@ -25,6 +25,6 @@ Get three in a row, column, or diagonal to win. If the board fills up, it's a dr
 ## Run it
 
 ```bash
-g++ main.cpp -o tactictoe
+g++ main.cpp -o TicTacToe
 ./tactictoe
 ```
