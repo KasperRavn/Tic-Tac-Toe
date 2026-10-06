@@ -8,7 +8,7 @@ A two-player tic-tac-toe game for the terminal, written in C++. My first c++ pro
 
 </div>
 
-## How to play
+# How to play
 
 Players take turns (X goes first) and type a number from 1 to 9 to place a piece:
 
